@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi i'm ![Micipsa](https://sersour.com)👋
 
 #### I'm a futur Front-End developer based in Paris 💻, I'm currently studying at Epitech Paris 🔭
 
