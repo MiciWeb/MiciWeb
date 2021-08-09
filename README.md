@@ -3,9 +3,7 @@
 I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
 
 I love spending hours and hours building websites⚙️, especially the visual part✨
-
-![logo](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png "web@cademie image")
-
+(https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)(www.google.com)
 
 <!--
 **MiciWeb/MiciWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +22,5 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiciWeb&layout=compact)
+![logo](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png "web@cademie image")
+
