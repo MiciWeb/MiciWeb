@@ -3,7 +3,8 @@
 I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
 
 I love spending hours and hours building websites⚙️, especially the visual part✨
-![[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white]](www.google.com)
+![www.google.com](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
 
 <!--
 **MiciWeb/MiciWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
