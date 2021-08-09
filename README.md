@@ -1,15 +1,14 @@
 ### Hi 👋
 
-#I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
+# I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
 
-#I love spending hours and hours building websites⚙️, especially the visual part✨
+# I love spending hours and hours building websites⚙️, especially the visual part✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![logo](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![logo](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![logo](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![logo](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!--
@@ -29,5 +28,5 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiciWeb&layout=compact)
-![logo](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png "web@cademie image")
+<!--![logo](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png "web@cademie image")
 
