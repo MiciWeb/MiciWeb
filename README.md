@@ -1,5 +1,12 @@
 ### Hi 👋
 
+I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
+
+I love spending hours and hours building websites⚙️, especially the visual part✨
+
+![logo](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png "web@cademie image")
+
+
 <!--
 **MiciWeb/MiciWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
