@@ -1,6 +1,6 @@
 # Hi 👋
 
-### I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
+#### I'm a futur Front-End developer based in Paris 💻 ! I'm currently studying at Epitech Paris 🔭
 
 #### I love spending hours and hours building websites⚙️, especially the visual part✨
 
