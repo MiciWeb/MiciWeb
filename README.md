@@ -2,7 +2,7 @@
 
 #### I'm a futur Front-End developer based in Paris 💻, I'm currently studying at Epitech Paris 🔭
 
-#### I love spending hours and hours building websites ⚙️,  especially the visual part ✨
+#### I love spending time building websites ⚙️,  especially the visual part ✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
