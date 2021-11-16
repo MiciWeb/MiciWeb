@@ -1,6 +1,6 @@
 # Hi i'm [Micipsa](https://sersour.com)👋
 
-#### I'm a futur Web Developer based in Paris 💻, I'm currently studying at [Epitech Paris](https://github.com/EpitechIT2020) 🔭
+#### I'm a Web Developer based in Paris 💻, I'm currently studying at [Epitech Paris](https://github.com/EpitechIT2020) 🔭
 
 #### I love spending time building websites ⚙️,  especially the visual and API part ✨
 
