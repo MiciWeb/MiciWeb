@@ -5,6 +5,7 @@
 #### I love spending time building websites ⚙️,  especially the visual and API part ✨
 
 ![logo](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![logo](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
