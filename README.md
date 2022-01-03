@@ -2,7 +2,7 @@
 
 #### I'm a Web Developer based in Paris 💻, I'm currently studying at [Epitech Paris](https://github.com/EpitechIT2020) 🔭
 
-#### I love spending time building websites ⚙️,  especially the visual and API part ✨
+#### I love spending time building websites ⚙️,  especially the visual part ✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
