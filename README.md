@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 -->
 
 
-![web@cademie](https://www.webacademie.org/wp-content/uploads/2019/11/LOGO-WEBACADEMIE-2019-QUADRI-2048x367.png)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiciWeb&layout=compact)
 
