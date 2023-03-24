@@ -1,4 +1,4 @@
-# Hi i'm [Micipsa](https://sersour.com)👋
+# Hi i'm [Micipsa](https://miciweb.github.io/portfolio/)👋
 
 #### I'm a Web Developer based in Paris 💻, I'm currently studying at [Epitech Paris](https://github.com/EpitechIT2020) and working at Yzy Digital 🔭
 
