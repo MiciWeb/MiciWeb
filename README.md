@@ -2,7 +2,7 @@
 
 #### I'm a Web Developer based in Paris 💻, I'm currently working at Yzy Digital 🔭
 
-#### I love spending time building websites ⚙️,  especially the visual part ✨
+#### I love spending time building apps ⚙️,  especially the visual part ✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
